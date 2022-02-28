@@ -1,0 +1,470 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Two city iuglers Tichborn, and Ireton: Being a dialogue: wherein, their rebellions, treacheries, treasons, and cheats, are fully discovered and brought to light: vvith some particular demonstrations of adhering to the Rump, and Committee of Safty [sic], to the ruine as they intended both of monarchy, city and country.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95416</idno>
+            <idno type="STC">Wing T3430</idno>
+            <idno type="STC">Thomason E1851_2</idno>
+            <idno type="STC">ESTC R209803</idno>
+            <idno type="EEBO-CITATION">99868661</idno>
+            <idno type="PROQUEST">99868661</idno>
+            <idno type="VID">170464</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170464)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 231:E1851[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Two city iuglers Tichborn, and Ireton: Being a dialogue: wherein, their rebellions, treacheries, treasons, and cheats, are fully discovered and brought to light: vvith some particular demonstrations of adhering to the Rump, and Committee of Safty [sic], to the ruine as they intended both of monarchy, city and country.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Vere, with out Newgate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Not in fact by Tichborne and Ireton, but a satire.</note>
+                  <note>Annotation on Thomason copy: "August"; "Aug: 10".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tichborne, Robert, --  Sir, d. 1682 --  Early works to 1800.</term>
+               <term>Ireton, John, --  Sir, 1615-1690 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170464:1" rendition="simple:additions"/>
+            <p>The two City IUGLERS <hi>Tichborn,</hi> and <hi>Ireton: Being A</hi> DIALOGUE: WHEREIN, Their Rebellions, Trea<g ref="char:EOLhyphen"/>cheries, Treaſons, and Cheats, are fully diſcovered and brought to light: VVith ſome particular Demonſtrations of adhering to the Rump, and Committee of Safty, to the Ruine as they in<g ref="char:EOLhyphen"/>tended both of Monarchy, City and Country.</p>
+            <figure>
+               <figDesc>two men, representing Robert Tichborne and John Ireton</figDesc>
+            </figure>
+            <p>Printed for <hi>T.</hi> Vere, with out Newgate 1660</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:170464:2"/>
+            <pb n="1" facs="tcp:170464:2"/>
+            <head>The two City IUGLERS</head>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>WEll met Brother, where have you beſtow'd your ſelfe ſince the ſad and unhappy Diſſolution of the <hi>RUMP?</hi> wherein wée rul'd like Lords of the Sopls, and knew no power in competiti<g ref="char:EOLhyphen"/>on with our own.</p>
+            </sp>
+            <sp>
+               <speaker>Tichborn.</speaker>
+               <p>I rambled up and down, and ever ſince thought the moſt private hole my beſt ſecu<g ref="char:EOLhyphen"/>rity, and like that foule Bird the Owle, did moſt of all converſe and ſtir abroad in the darke.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>I wonder that wée two whoſe ſoules did ſo much ſimpathize in contriving and act<g ref="char:EOLhyphen"/>ing of miſchiefe, could indure ſuch a long divorce of our bodies and ſociety.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:170464:3"/>
+               <speaker>T.</speaker>
+               <p>I often wiſht your company, accor<g ref="char:EOLunhyphen"/>ding to the old proverb, Birds of a Feather will flock together, and being here ſo hap<g ref="char:EOLhyphen"/>pily met <hi>I</hi> think now wee ſhall not part, un<g ref="char:EOLhyphen"/>till the gallows part us, for ſhame wil never doe it, that wee have ſwallowed down and drank after it.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>Since for our deſervings, and I th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nk if Iuſtice be not blind and partiall, very few can lay a more deſerving claime for their merit in this place then our ſelves: wée are thought worthy to be taken notice of, let us ſolace our ſelues with a mouthfull of freſh ayre and ſeaſonable diſconrſe.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Brother lead the way.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>By no means, you are the elder—sSir.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>I did alwayes think you more deſerving then my ſelfe, and therefore grant you the precedency.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>I think 'tis no great matter who leads the dance now, for certainly wée muſt both ſing the ſame ſong, and all our mirth will end in Lacryma.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>I will rather be unmannerly then tedi<g ref="char:EOLhyphen"/>ous, and when I goe before I doubt not but you will ſoon follow and not be long after.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>But to begin with our diſcourſe,
+<pb n="3" facs="tcp:170464:3"/>what think you of us now the world is fur<g ref="char:EOLhyphen"/>ned, and wée turned out of doores.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Nay wee are not turned out but into the doores, ſo faſt, that I fear there will be no Redemption, with out a Habeas Corpus, which will convey us to the place of Judge<g ref="char:EOLhyphen"/>ment, and from thence to the place of Exe<g ref="char:EOLhyphen"/>cution.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>It was a moſt unlucky houre when the Rump was firſt diſſolved, and the Commit<g ref="char:EOLhyphen"/>tée of villany erected in its place.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Tuſh had either ſtood you and I had bin ſecure, for wee had got the trick to play on both ſides, and what then need wee have cared which part had taken place.</p>
+            </sp>
+            <sp>
+               <speaker>I</speaker>
+               <p>But becauſe neither did take place, I am now confin'd to ſuch a place, from which I would give my eſtate to be ſafe delivered, but that will not ſerve turn, but I muſt now arm my ſelf with the patience of <hi>Job,</hi> and with him ſay, <hi>Naked <hi>I</hi> came into the world, and naked I muſt return again,</hi> for I am much afraid a Pecuniary Mulct w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll not ſerre the turn.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>No certainly, for there is a Law called Lex Tallionis, which doth command an eye for an eye, and a tooth for a tooth, now if this Law be mad<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our Judge, then <hi>I</hi> know
+<pb n="4" facs="tcp:170464:4"/>what ought and muſt become of us for cer<g ref="char:EOLhyphen"/>tainly wee have not only bin guilty of the undoing of many a family, but have bin joy<g ref="char:EOLhyphen"/>full inſtruments in taking away of many lives,</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>I adhered to y<hi rend="sup">e</hi> Committée of Treachery not with a reſpect unto the Nation or City but hoping that by that power I might con<g ref="char:EOLhyphen"/>tinue ſafe, and eſcape the deſerved vengeance which the injuries of the people did tel, muſt neceſſarily fail upon me, if I were not ſe<g ref="char:EOLhyphen"/>cured and protected by that Vſurpt Autho<g ref="char:EOLhyphen"/>rity.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>You thought alike of Church and State, ſerv'd either to ſerve your own turne, and that being ſecur'd ſerv'd neither.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>I ſaw the Church and State tottering which cauſed me to ſtick to the ſtrongeſt ſide, that ſo I might ſecure one,</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>When the Rump was eſtabliſht <hi>I</hi> was a Rumper and when the Committee of Safty was erect d. I thought good there to ſecure my ſelfe under their wings.</p>
+            </sp>
+            <sp>
+               <speaker>I</speaker>
+               <p>But who would have thought that while theſe two doggs were ſtriving for the Bone, a third party ſhould have ſtept in and got the purchaſe from them both</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>It was but juſt that wee that had ſo long
+<pb n="5" facs="tcp:170464:4"/>liv'd upon the ſpoyle, ſhould now at length be ſpoyled our ſelves.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>Wée plaid the game at <hi>Cheſſe,</hi> but with very bad ſucceſſe, for whilſt wee encouraged the Rooks and Pawnes to take the King, we were by them taken at length.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>My Indulgency to Heriſies and Facti<g ref="char:EOLhyphen"/>ons which was the falſe foundation of our tottering building could not continue, but muſt needs molter and fall down.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>You made the firſt breach in the buil<g ref="char:EOLhyphen"/>ding, when you altred the City Rights and Priviledges and ſubmitted to <hi>Olivers</hi> Ty<g ref="char:EOLhyphen"/>rannicall power.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Which was ſeconded by you when you were Lord Mayor, when you introduced the ſtubborn power of the Souldiers to awe and countermand their Liberties, and imagined that Huſon with his Aule and Coblers ends might at any time ſtich up ſuch breaches.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>I did imitate you but as my example,</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Which we both performed with ſo much reſolution and confidence, as if it had beene impoſſible that wee ſhould ever have ſeene a turn again, but now the turn will cauſe us to have a turn, where wee muſt turn over the Ladder.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>Where two wry faces and a Spaniſh
+<pb n="6" facs="tcp:170464:5"/>ſhrugge will finiſh the worke, and then wee ſhall ſufficiently be rewarded for our pains,</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>But before wee goe to the worke, it is uſuall and will be conuenient for publique ſatisfaction that wee make ſome confeſſion of our lives and actions.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>Twill not be amiſſe, but you being the elder ſhall have the precedency.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Let it be ſo, and I doe remember that in my Mayrolty by my continuall comply<g ref="char:EOLhyphen"/>ance with old NOL the Proj ctor, that he eſteemed of me as one of his moſt able Inſtruments.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>What did you act then?</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Knowing that he had no great eſteem of the Church, after he had made <hi>Pauls</hi> a Den of Theeves and a Stable for his Re<g ref="char:EOLhyphen"/>bellious Iades I brought the Market out of<hi>Cheapſide</hi>into <hi>Pauls Church-yard,</hi> where they now buy and fell as they in <hi>Jeruſalem</hi> did in the antient time.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>You did not well in defacing the place of Gods worſhip.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>By that means I gain'd reſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct with <hi>Oliver,</hi> the grand Impoſter of all the world, &amp; was Sainted in his K<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llender of Rebelli<g ref="char:EOLhyphen"/>on, honour enough for ſuch a poor ſneak as I was.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:170464:5"/>
+               <speaker>I.</speaker>
+               <p>But what did you gain by removing the Market?</p>
+            </sp>
+            <sp>
+               <speaker>T,</speaker>
+               <p>My gain in that particular was not much, only I did ſhew my diſlike of the Churches power and the government there<g ref="char:EOLhyphen"/>of but the ſcent and colour of thoſe wares which are there ſold, might have given ſome correction unto the noyſom ſmel of the <hi>Augean</hi> ſtables, but though the Commodities were ſweet yet that Act made me ſtink ever ſince in the Noſtrills of the people.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>How could you walk undiſcovered to the eye and cenſure of the world.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Becauſe all that ſate at the ſterne of Government, were of the ſame diſpoſition. I made Religion my Stalking-horſe, wher<g ref="char:EOLhyphen"/>by I did compaſſe my Game, and was counted a Saint, while in very truth I was a white Divell.</p>
+            </sp>
+            <sp>
+               <speaker>I</speaker>
+               <p>In the mean while where was conſcience?</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>That is a méere Bugheare to awe Fools. I ſerv'd my god <hi>Mammon,</hi>thought it policy to thrive any tray Sacrilidge if it brought in profit, was Piety. Learning, and Conſcience I eſteemed as things méerly unneceſſary and inconſiſtent with the times.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>Did you allow of cheating?</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:170464:6"/>
+               <speaker>T,</speaker>
+               <p>Yes, as a neceſſary Ingredient to the compoſure of a thriving man, and now I think on't. Ile tell you a Story.</p>
+               <p>A neceſſitated Captain of the Army, ha<g ref="char:EOLhyphen"/>ving much mony due for Debentures was in<g ref="char:EOLhyphen"/>forced to ſel them at what rates he could; he maks his applycation to me, made his pro<g ref="char:EOLhyphen"/>poſitions &amp; although I ſeemed unwilling at the firſt to deale, I was ſharp ſet at the bait e, &amp; after ſome ſmal time we agreed upon the conſideration I was to give him for them which was very ſmal; when he cam for his mo<g ref="char:EOLhyphen"/>nyl told him I was not at that time provided with moneys, but that he muſt take wares for his Debentures which his neceſſities did inforce him to doe, ſo I nooſ'd the poore Captain, who by that means, for he was in<g ref="char:EOLhyphen"/>forſt to take the wares at my own rates for his three hundred pound, had but little above the tythe of me. Now Brother let me h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are ſome of your good deeds.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>I was alwayes ſince the beginning, a true Servant in Rebellion, an Enemy to Monarchy, and ſerv'd the Rump with as much fidelity as <hi>Scot</hi> did the wench, when he gave her five pounds for a nights lodging in her Q<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rters.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:170464:6"/>
+               <speaker>T.</speaker>
+               <p>You were very liberally rewarded by them for your good ſervice.</p>
+            </sp>
+            <sp>
+               <speaker>I,</speaker>
+               <p>I ſhould have bin if I could have obtaind to have held the Office of Lord Mayor the ſecond Yeare, which they endeadoured, and I made ſuite for,</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>How came it that you were diſmiſt of it?</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>The Court of Aldermen and Common-Councell did withſtand me,</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>For what reaſons, &amp; upon what grounds?</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>For no great cauſe, but becauſe I was a faithfull ſervant to the Rump, and did joyn with them againſt the City</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Why would you be an adverſary to that place whereof you were then the head?</p>
+            </sp>
+            <sp>
+               <speaker>I,</speaker>
+               <p>In pollitick proceedings ther's no reſpect to be had to private Relations: I ſought by that means to bring the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to obedience to that power which then did and ought to bear tule for I found them to be as weary of that Government, as any priſoner of his confine<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>What means did you uſe to ſuppreſſe their murmurings and hinder them from breaking out into action?</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>By the Correſpondency I held with my Brother Rumpers and with the Souldiery, whoſe mouths I knew did water at the rich<g ref="char:EOLhyphen"/>es and treaſury of the City, and I tell you
+<pb n="10" facs="tcp:170464:7"/>Brother, and nothing but the truth, If I had obtained my ſecond Mayrolty, I would have ſo curbed this contumations City, and made it as fame as any Brewers horſe, I would have put ſuch a bit into their mouths, that I would have turn'd them which way I had pleaſed.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Was your conſent with the Rumpers for pulling down the City Gates, and intro<g ref="char:EOLhyphen"/>ducing the Souldiery into the City before that time, when Hewſon cauſ'd his Brother to be kil'd?</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>For the admittance of the Souldiery into the City, I did no otherwiſe then as a Member of the Rump, not by any private di<g ref="char:EOLhyphen"/>rections or adviſe: but for the puiling down of the Gates I had a full and perfect conſent therein neither was <hi>Haſlerigge</hi> nor any who had intereſt in the Rump more forward then my ſelf &amp; rather then they ſhould have prevaild againſt the power then on foot, I ſhould have bin contented to have ſeen <hi>Haſleriggs</hi> inten<g ref="char:EOLhyphen"/>ded ſate to have befallen this City, to have ſeene <hi>London</hi> in a flame, and then I might have appeared a child of light, though my <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions and the world ſay, I am a ſonne of d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rkneſſe.</p>
+            </sp>
+            <sp>
+               <speaker>T,</speaker>
+               <p>What reward do you expect for all
+<pb n="11" facs="tcp:170464:7"/>theſe your good ſervices done.</p>
+               <p>Wee have gotnow a more juſt Maſter then wee ſerved before, and I make no queſtion but he wil take care wee haue our due.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>I'm ſure wée deſerve as much as any, for our actions have bin as notorious as any of the act ors who are taken more notice of.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Reſt a while content, our turnes will come when wee ſhall be rewarded accor<g ref="char:EOLhyphen"/>ding to our deſerts, when I beleeve we may ſing the old Catch.</p>
+               <p>Wee have oft bin Rogues together,</p>
+               <p>Now muſt hang twixt wind and weather,</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>But Brother, my ſtomack is ſomthing ſqueazy, I would you would ſend to <hi>Pauls-Church-yard</hi> for a Sallet for me, I know you have good credit amongſt the Hear be Women.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Wee are both fick of the ſame diſeaſe, and <hi>I</hi> think a little Extractum Zunalis, or extracted Hemp rightly applyed will worke the cure on us both.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>I could laugh methinks.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>For my part <hi>I</hi> am not ſo jocondly diſpos'd, but ſay, let them laugh that wins, but how-ever were our Brother Hall Martin here <hi>I</hi> would adventure upon a Catch, and make up the three mens Song.</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:170464:8"/>
+               <speaker>I.</speaker>
+               <p>As I was going lately to take the ayre, I met him ſneaking néere <hi>Bloomsbury,</hi> for now he is altogether for a ſuburb<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> life, but he was very rich, for he had as many Ca<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nn<g ref="char:EOLhyphen"/>ckles about him as there are ſtarrs in th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Firmament in a froſty night, and more ſtinking Vlcers then ever poor <hi>Lazarus</hi> had but they ſtunk ſo much that the doggs refus'd to be charitable unto him and give them <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lick, He went into a Cooks ſhop and no Mea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would ſerve his appetite but a Rump py<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unſeaſoned, for Pepper is a great Enemy ane vexation to men in his condition.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>I heare he intends to rally up a Regi<g ref="char:EOLhyphen"/>ment of Pickt-hatch Souldiers, and march with them into France, they wil need no o<g ref="char:EOLhyphen"/>ther Ammunition but what they have abou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them<g ref="char:punc">▪</g> for they are wel enough furniſht to deſtroy an Army, were it twice as great a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Turks.</p>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <p>Now for want of his company we will conclud our diſcourſe, hoping to have it befor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> next Seſſions, then wée may ſing the three mens ſong together and take our leaves like loving Brothers one of another.</p>
+               <q>
+                  <l>Three merry boyes, and three merry boyes, and three merry boyes are wee,</l>
+                  <l>That ever did ſing three parts in a ſtring, under the Tripple Tree.</l>
+               </q>
+            </sp>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:170464:8"/>
+            <p>
+               <figure>
+                  <figDesc>man (representing either Tichborne or Ireton)</figDesc>
+               </figure>
+            </p>
+            <p>
+               <pb facs="tcp:170464:9"/>
+               <figure>
+                  <figDesc>man (representing either Tichborne or Ireton)</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
